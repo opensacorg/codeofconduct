@@ -43,11 +43,7 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-# Email Template for Anti-Harassment Reporting
+# Code of Conduct Violation Reporting
 
-SUBJECT: Safe Space alert at [EVENT NAME]
-
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
-
-You can reach me at (CONTACT INFO). Thank you.
+Please fill out this form: https://forms.gle/XiVpHwJg8tkaoeZV9.
 
